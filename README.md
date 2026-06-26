@@ -53,11 +53,7 @@ This repository contains a Jupyter Notebook that covers the fundamental concepts
 
 ---
 
-## 📂 Repository Contents
 
-- `Control_Flow_Loops_Patterns.ipynb` — Jupyter Notebook containing explanations, examples, and practice questions.
-
----
 
 ## 🎯 Learning Outcomes
 
